@@ -1,0 +1,3 @@
+[submodule "VA-project"]
+	path = VA-project
+	url = https://github.com/VisualAnalytics-Group-16/VA-project.git
