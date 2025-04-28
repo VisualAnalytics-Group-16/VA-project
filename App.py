@@ -244,7 +244,7 @@ else:
     st.warning("No country data available for simulation.")
 
 # Urban vs Rural Comparison
-st.header("🏙️ Urban vs Rural Temperature Comparison")
+st.header("🏙️ Urban Temperature Comparison")
 urban_rural_df['UHI_Intensity'] = urban_rural_df['Urban_Temp_C'] - urban_rural_df['Rural_Temp_C']
 
 tab1, tab2 = st.tabs(["Temperature Difference", "Population Relationship"])
