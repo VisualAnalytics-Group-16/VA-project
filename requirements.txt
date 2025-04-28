@@ -1,4 +1,8 @@
 streamlit
-matplotlib
-numpy
 pandas
+altair
+pydeck
+numpy
+requests
+matplotlib
+scikit-learn
